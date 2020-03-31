@@ -1,0 +1,2 @@
+enum和Enum的区别？
+enum时关键字，使用enum定义的枚举类，默认继承Enum抽象类
